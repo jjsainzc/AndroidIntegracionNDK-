@@ -1,0 +1,12 @@
+<!--
+  ~ Copyright (c) 2017 .Jorge Jesus Sainz Casalla
+  ~ Ultima modificacion: 3/28/17 1:19 PM
+  -->
+
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="lbl_pedido">Diga su pedido</string>
+    <string name="lbl_pedir">Pedir</string>
+    <string name="lbl_limpiar">Limpiar</string>
+    <string name="lbl_resultado">Resultado</string>
+</resources>
